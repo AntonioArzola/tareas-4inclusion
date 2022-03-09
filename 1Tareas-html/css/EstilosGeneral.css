@@ -1,0 +1,42 @@
+/*Usando Tipografías externas*/
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&family=Roboto+Condensed:wght@400;700&display=swap');
+
+html {
+    /*Color de fondo de gris claro*/
+    background-color: hsl(0deg, 0%, 70%);
+    /*Color de texto negro*/
+color: #000000;
+font-size: 14pt;
+font-family: 'Roboto Condensed', sans-serif;
+font-weight: 400;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    /*color de fondo gris oscuro*/
+    background-color: hsl(0deg, 0%, 30%);
+/*Color de texto azul marino*/
+color: #000080;
+font-weight: 700;
+text-decoration: underline, overline;
+text-align: center;
+}
+
+h1, h2 {
+    font-family: 'Raleway', sans-serif;
+}
+a {
+/*Color de texto azul encendido*/
+color: #3b83bd;
+}
+
+p{
+    text-indent: 1rem;
+}
+
+ol {
+list-style-type: lower-alpha/lower-latin;
+}
+
+ul {
+    list-style-type: square;
+}

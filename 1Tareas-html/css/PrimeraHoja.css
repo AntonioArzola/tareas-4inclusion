@@ -1,0 +1,22 @@
+html {
+    /*Color de fondo verde olivo */ 
+    background-color: rgb(155, 147, 59);
+/*Color de texto blanco*/
+color: rgb(255, 255, 255);
+}
+
+h {
+    /*Color de encabezadosmostaza*/
+    color: rgb(255, 215, 88);
+}
+
+table {
+    /*Color de fondo veish*/
+    background-color: rgb(245, 245, 220);
+}
+
+li {
+    /*Color de texto azul rey*/
+    color: rgb(8,51,162);
+}
+
